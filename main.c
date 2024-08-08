@@ -457,7 +457,8 @@ int main() {
     int ans;
     while (1) {
         printf("---------------------------------------------------------------\n");
-        printf("                  Welcome to benchmark.\n          ");
+        printf("                  Welcome to benchmark.\n");
+        printf("             input what you would like to do\n          ");
         core();
         printf("                [1]- Float Matrix Multiplication\n");
         printf("                [2]- Float Matrix Verification\n");
